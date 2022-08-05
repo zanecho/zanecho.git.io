@@ -1,4 +1,4 @@
-#cnpm run docs:build
+
 
 git pull
 
