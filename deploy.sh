@@ -1,3 +1,5 @@
+#cnpm run docs:build
+
 git pull
 
 git status
