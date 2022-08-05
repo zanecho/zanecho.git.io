@@ -1,10 +1,4 @@
-
-
-git pull
-
-git status
-
-git add -A
+git add .
 
 git commit -m 'auto commit'
 
