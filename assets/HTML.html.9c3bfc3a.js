@@ -1,0 +1,1 @@
+import{_ as a,o as r,c as t,a as e,b as c}from"./app.745caf01.js";const o={},s=e("h1",{id:"hrml",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#hrml","aria-hidden":"true"},"#"),c(" HRML")],-1),_=[s];function n(d,h){return r(),t("div",null,_)}var i=a(o,[["render",n],["__file","HTML.html.vue"]]);export{i as default};
